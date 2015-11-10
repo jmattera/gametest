@@ -1,0 +1,11 @@
+public class If {
+	public static void main(String[] args) {
+
+		if (!false) {
+
+			System.out.println("Access granted.");
+
+		}
+		
+	}
+}
